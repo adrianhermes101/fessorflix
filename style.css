@@ -1,7 +1,20 @@
 body {
-    background: black;
+    background: rgb(25, 49, 26);
     color: white;
+    display: block;
+    text-align: center;
 }
+
 header {
     padding: 20px;
+    border-bottom: 2px solid rgb(42, 122, 228);
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+section {
+    background: rgb(107, 110, 97);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin: auto;
 }
