@@ -3,6 +3,9 @@ body {
     color: white;
     display: block;
     text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 500;
 }
 
 header {
@@ -17,4 +20,8 @@ section {
     padding-top: 80px;
     padding-bottom: 80px;
     margin: auto;
+}
+
+.container_caxa {
+   background-color: rgb(24, 102, 76);
 }
